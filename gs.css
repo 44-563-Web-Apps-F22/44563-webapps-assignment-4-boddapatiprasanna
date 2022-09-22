@@ -22,8 +22,6 @@
 }
 
 .name {
-    color: black;
-    font-size: x-small;
     font: menu;
 }
 
@@ -78,3 +76,9 @@ p.directions:hover {
 .NICE{
     color:bisque;
 }
+h5:hover{
+    color:cornflowerblue;
+    font-size:medium;
+    background-color:darkgreen;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ }

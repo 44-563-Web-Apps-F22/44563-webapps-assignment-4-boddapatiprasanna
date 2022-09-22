@@ -1,0 +1,62 @@
+.speech {
+    color: black;
+    font-size: large;
+    font: normal;
+
+}
+
+.directions {
+    color: black;
+    font-size: larger;
+    font: optional;
+    background-color: rgb(244, 244, 155);
+}
+
+.song {
+    color: black;
+    font-size: medium;
+    font: medium;
+
+}
+
+.name {
+    color: black;
+    font-size: x-small;
+    font: menu;
+}
+
+h4.GROSVENOR:hover {
+    color: brown;
+    font-size: medium;
+    font: 50px;
+    color: crimson;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h4:hover {
+
+    background-color: cornsilk;
+    font: 30px;
+}
+
+p.directions:hover {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+.PREP {
+    color: blueviolet;
+}
+
+.THES {
+    color: chocolate;
+
+}
+
+.STUP {
+    color: cornflowerblue;
+}
+
+.SILLI {
+    color: darkblue;
+}

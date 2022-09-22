@@ -16,6 +16,8 @@
     color: black;
     font-size: medium;
     font: medium;
+    padding-left: 10%;
+    width: 20%;
 
 }
 
@@ -25,13 +27,20 @@
     font: menu;
 }
 
-h4.GROSVENOR:hover {
-    color: brown;
-    font-size: medium;
-    font: 50px;
-    color: crimson;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+table, th, td {
+  border: 1px solid;
 }
+
+table {
+  width: 100%;
+}
+tr:nth-child(even) {
+    background-color:blueviolet;
+  }
+  tr:nth-child(odd) {
+    background-color:cadetblue;
+  }
+
 
 h4:hover {
 
